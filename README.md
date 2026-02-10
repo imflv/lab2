@@ -1,1 +1,1 @@
-# lab2
+This project aims to build a multiclass classification model that can automatically detect and categorize cyberbullying in tweets. Given the rise of social media usage and cyberbullying incidents, especially during the COVID-19 pandemic, such a model can help platforms automatically flag harmful content for review.
